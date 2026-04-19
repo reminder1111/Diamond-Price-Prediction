@@ -4,7 +4,7 @@ A Flask-based machine learning web app that predicts diamond prices from key phy
 
 ## Deploy Link
 
-- Deploy on Render: [One-click deploy](https://render.com/deploy?repo=https://github.com/reminder1111/Diamond-Price-Prediction)
+- Deploy link: [https://diamond-price-prediction-t9mm.onrender.com](https://diamond-price-prediction-t9mm.onrender.com)
 - GitHub repository: [reminder1111/Diamond-Price-Prediction](https://github.com/reminder1111/Diamond-Price-Prediction)
 
 ## Features
